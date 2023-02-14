@@ -1,0 +1,40 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-farmio-dev-141439-authRole",
+      "UnauthRoleArn": "arn:aws:iam::507172482328:role/amplify-farmio-dev-141439-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::507172482328:role/amplify-farmio-dev-141439-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-farmio-dev-141439-deployment",
+      "UnauthRoleName": "amplify-farmio-dev-141439-unauthRole",
+      "StackName": "amplify-farmio-dev-141439",
+      "StackId": "arn:aws:cloudformation:ap-south-1:507172482328:stack/amplify-farmio-dev-141439/b65b5430-8596-11ec-b5c5-025a01e27354",
+      "AmplifyAppId": "dgwfc561f2n5b"
+    },
+    "categories": {
+      "auth": {
+        "farmiobcfdad2f": {
+          "userPoolId": "ap-south-1_erdVpFTVT",
+          "userPoolName": "SmartFarmAuthPool",
+          "webClientId": "44gb2te0v145hf5vjrrdjnem8n",
+          "nativeClientId": "44gb2te0v145hf5vjrrdjnem8n",
+          "identityPoolId": "ap-south-1:8921cea3-93a6-4007-984b-477153a8471c",
+          "identityPoolName": "SmartFarmAuth",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::507172482328:role/Cognito_SmartFarmAuthAuth_Role",
+          "authRoleName": "Cognito_SmartFarmAuthAuth_Role",
+          "unauthRoleArn": "arn:aws:iam::507172482328:role/Cognito_SmartFarmAuthUnauth_Role",
+          "unauthRoleName": "Cognito_SmartFarmAuthUnauth_Role"
+        }
+      },
+      "analytics": {
+        "farmio": {},
+        "Pinpoint": {
+          "Name": "farmio-dev",
+          "Id": "1d2a1584c9bb414889db6061aa6687b5",
+          "Region": "us-west-2"
+        }
+      }
+    }
+  }
+}

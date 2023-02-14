@@ -1,0 +1,17 @@
+{
+  "authSelections": "identityPoolAndUserPool",
+  "resourceName": "farmiobcfdad2f",
+  "serviceType": "imported",
+  "region": "ap-south-1",
+  "usernameAttributes": [
+    "phone_number"
+  ],
+  "authProvidersUserPool": [],
+  "requiredAttributes": [
+    "phone_number"
+  ],
+  "passwordPolicyMinLength": 6,
+  "passwordPolicyCharacters": [],
+  "mfaConfiguration": "OFF",
+  "mfaTypes": []
+}

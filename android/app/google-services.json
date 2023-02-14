@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "478239037100",
+    "project_id": "smart-farm-f929e",
+    "storage_bucket": "smart-farm-f929e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478239037100:android:68505a7ebdf7141ff97109",
+        "android_client_info": {
+          "package_name": "com.seed.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478239037100-lloi44ebmrf52u488jcmsqjab2qrkh7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANop09jLDgPm4h-OXK0TI0Cv9kF1fxzUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478239037100-lloi44ebmrf52u488jcmsqjab2qrkh7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478239037100:android:82547aa1444d454ff97109",
+        "android_client_info": {
+          "package_name": "com.thynklabs.farmio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478239037100-lloi44ebmrf52u488jcmsqjab2qrkh7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANop09jLDgPm4h-OXK0TI0Cv9kF1fxzUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478239037100-lloi44ebmrf52u488jcmsqjab2qrkh7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
